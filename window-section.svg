@@ -15,7 +15,26 @@
    sodipodi:docname="window-section.svg"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
   <defs
-     id="defs2017" />
+     id="defs2017">
+    <rect
+       x="657.65486"
+       y="49.078721"
+       width="486.86091"
+       height="182.57284"
+       id="rect4504" />
+    <rect
+       x="708.69673"
+       y="657.65486"
+       width="596.79725"
+       height="286.61974"
+       id="rect4492" />
+    <rect
+       x="669.43375"
+       y="661.58116"
+       width="257.1725"
+       height="159.01506"
+       id="rect4486" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,18 +42,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17991061"
-     inkscape:cx="1902.9694"
-     inkscape:cy="3018.254"
+     inkscape:zoom="0.13477497"
+     inkscape:cx="2734.3529"
+     inkscape:cy="2872.7691"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="in"
-     inkscape:window-width="1611"
-     inkscape:window-height="943"
-     inkscape:window-x="47"
-     inkscape:window-y="23"
+     inkscape:window-width="1608"
+     inkscape:window-height="944"
+     inkscape:window-x="72"
+     inkscape:window-y="84"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata2020">
@@ -44,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -123,5 +142,57 @@
        x="1869.2458"
        y="409.49973"
        transform="matrix(0.23558703,0,0,0.26458333,55.733913,2.1166667)" />
+    <text
+       xml:space="preserve"
+       id="text4484"
+       style="line-height:1.25;font-family:sans-serif;font-size:2.82222222000000000px;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect4486);" />
+    <text
+       xml:space="preserve"
+       id="text4490"
+       style="font-size:35.27779999999999916px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect4492);"
+       transform="translate(-131.53097,-268.95139)"><tspan
+         x="708.69727"
+         y="689.8393"><tspan
+           style="font-size:25.4px">Countertop material as bottom window trim. </tspan></tspan><tspan
+         x="708.69727"
+         y="733.93653"><tspan
+           style="font-size:25.4px">1/4&quot; reveal to jamb extension, 1/4&quot; reveal to </tspan></tspan><tspan
+         x="708.69727"
+         y="778.03376"><tspan
+           style="font-size:25.4px">vertical countertop piece. Height of the </tspan></tspan><tspan
+         x="708.69727"
+         y="822.13099"><tspan
+           style="font-size:25.4px">vertical countertop piece to match space </tspan></tspan><tspan
+         x="708.69727"
+         y="866.22822"><tspan
+           style="font-size:25.4px">between counter and window frame. </tspan></tspan><tspan
+         x="708.69727"
+         y="910.32545"><tspan
+           style="font-size:25.4px">Approximately 2-11/16.</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.55905522;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2559.8224,2522.7235 -452.6063,489.7052"
+       id="path4498"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.55906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1023.929,1320.72 c 73.9264,-70.4968 91.52,-180.5573 163.235,-252.2724 28.6834,-28.6834 63.3555,-50.7508 96.4571,-74.19774 26.3146,-18.63952 50.459,-43.62949 81.6175,-51.93842 118.73,-31.66132 247.8648,5.53083 356.1492,51.93842 25.9885,11.13794 99.8786,53.10644 126.1362,59.35824 150.5846,35.8534 278.9538,-56.76764 356.1492,-178.07464 26.4953,-41.6355 49.7609,-106.06335 89.0373,-140.97572 71.0903,-63.19138 146.0313,-80.54607 230.013,-126.13618 12.2147,-6.63084 119.2873,-96.02893 148.3955,-74.19775 1.134,0.85047 0,39.58237 0,44.51865 -36.1949,-36.19496 -165.6271,-167.67289 -200.3339,-192.91415 -41.1869,-29.95412 -90.5903,-46.85602 -133.5559,-74.19775 -38.8129,-24.6991 -67.5638,-67.33741 -111.2966,-81.61753 -25.077,-8.1884 -525.9885,-73.63625 -534.2239,-74.19775 -151.5284,-10.33148 -445.5657,-49.14911 -593.582,74.19775 -93.4874,77.90619 -149.26048,192.2549 -222.59323,289.37123 -47.4528,62.8429 -86.41625,113.8392 -89.0373,200.33393 -3.08649,101.85414 110.07509,303.71311 148.3955,385.82831 23.5038,50.3653 38.71647,104.2109 59.35821,155.8153 15.96852,39.9214 29.67912,10.678 29.67912,59.3582 z"
+       id="path4500"
+       transform="matrix(-0.26458333,0,0,0.1596714,914.9443,2.1809105)" />
+    <text
+       xml:space="preserve"
+       id="text4502"
+       style="font-size:50.79999999999999716px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect4504);"><tspan
+         x="657.6543"
+         y="95.424504"><tspan
+           style="font-size:50.8px">Window and </tspan></tspan><tspan
+         x="657.6543"
+         y="158.9245"><tspan
+           style="font-size:50.8px">countertop section</tspan></tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.55906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1023.929,1320.72 c 73.9264,-70.4968 91.52,-180.5573 163.235,-252.2724 28.6834,-28.6834 63.3555,-50.7508 96.4571,-74.19774 26.3146,-18.63952 50.459,-43.62949 81.6175,-51.93842 118.73,-31.66132 247.8648,5.53083 356.1492,51.93842 25.9885,11.13794 99.8786,53.10644 126.1362,59.35824 150.5846,35.8534 278.9538,-56.76764 356.1492,-178.07464 26.4953,-41.6355 49.7609,-106.06335 89.0373,-140.97572 71.0903,-63.19138 146.0313,-80.54607 230.013,-126.13618 12.2147,-6.63084 119.2873,-96.02893 148.3955,-74.19775 1.134,0.85047 0,39.58237 0,44.51865 -36.1949,-36.19496 -165.6271,-167.67289 -200.3339,-192.91415 -41.1869,-29.95412 -90.5903,-46.85602 -133.5559,-74.19775 -38.8129,-24.6991 -67.5638,-67.33741 -111.2966,-81.61753 -25.077,-8.1884 -525.9885,-73.63625 -534.2239,-74.19775 -151.5284,-10.33148 -445.5657,-49.14911 -593.582,74.19775 -93.4874,77.90619 -149.26048,192.2549 -222.59323,289.37123 -47.4528,62.8429 -86.41625,113.8392 -89.0373,200.33393 -3.08649,101.85414 110.07509,303.71311 148.3955,385.82831 23.5038,50.3653 38.71647,104.2109 59.35821,155.8153 15.96852,39.9214 29.67912,10.678 29.67912,59.3582 z"
+       id="path4500-5"
+       transform="matrix(-0.44994435,0,0,-0.1596714,1522.0001,1204.3491)" />
   </g>
 </svg>
