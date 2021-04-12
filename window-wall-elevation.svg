@@ -21,7 +21,7 @@
        x="1604.3507"
        y="968.57084"
        width="3084.5256"
-       height="183.78011"
+       height="249.19373"
        id="rect1527" />
     <rect
        x="5424.6712"
@@ -55,9 +55,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.023655995"
-     inkscape:cx="23442.214"
-     inkscape:cy="9106.1054"
+     inkscape:zoom="0.060671612"
+     inkscape:cx="17567.267"
+     inkscape:cy="7231.3881"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,23 +237,20 @@
 </tspan></tspan><tspan
          x="1530.7539"
          y="1820.1257"><tspan
-           style="font-size:50.8px">Window stool thickness is 1&quot; with a .5&quot; reveal of </tspan></tspan><tspan
+           style="font-size:50.8px">Window stool thickness is 1&quot; with a .5&quot; reveal on </tspan></tspan><tspan
          x="1530.7539"
          y="1883.6257"><tspan
-           style="font-size:50.8px">window frame. This leaves about 1.75&quot; of </tspan></tspan><tspan
+           style="font-size:50.8px">the window frame. This leaves about 1.75&quot; below </tspan></tspan><tspan
          x="1530.7539"
          y="1947.1257"><tspan
-           style="font-size:50.8px">backsplash material (to be decided) below the </tspan></tspan><tspan
-         x="1530.7539"
-         y="2010.6257"><tspan
-           style="font-size:50.8px">window stool.
+           style="font-size:50.8px">the window stool.
 </tspan></tspan><tspan
          x="1530.7539"
-         y="2074.1257"><tspan
+         y="2010.6257"><tspan
            style="font-size:50.8px">
 </tspan></tspan><tspan
          x="1530.7539"
-         y="2137.6257"><tspan
+         y="2074.1257"><tspan
            style="font-size:50.8px">Countertop height is 36&quot;. </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -275,12 +272,19 @@
     <text
        xml:space="preserve"
        id="text1525"
-       style="font-size:141.11099999999999000px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect1527);"
-       transform="translate(412.29736,214.83285)"><tspan
+       style="font-size:50.79999999999999716px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect1527);"
+       transform="translate(412.29736,202.13277)"><tspan
          x="1604.3516"
-         y="1097.3101"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00012969971 -0.00011444092 0 0 0.00012969971 -0.00011444092 0.00012969971"
-           style="shape-inside:url(#rect1527)">Window wall elevation - April 11, 2021</tspan></tspan></text>
+         y="1014.9167"><tspan
+           style="font-size:50.8px;shape-inside:url(#rect1527)">Desjardins kitchen
+</tspan></tspan><tspan
+         x="1604.3516"
+         y="1078.4167"><tspan
+           style="font-size:50.8px;shape-inside:url(#rect1527)">Window wall elevation
+</tspan></tspan><tspan
+         x="1604.3516"
+         y="1141.9167"><tspan
+           style="font-size:50.8px;shape-inside:url(#rect1527)">April 11, 2021</tspan></tspan></text>
     <rect
        style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77769082;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4398"
